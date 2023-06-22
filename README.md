@@ -1,12 +1,19 @@
-## 开发所 内部知识库网站
+# 我的网站（暂时还没想好名字哦！）
 
-> 猜猜作者是谁？
+> 网站管理员：[孔余](http://wpa.qq.com/msgrd?v=3&uin=2385569970&Menu=yes)
 
 ## 概述
 
-这是README.md文件哦！
+欢迎！
+
 
 ## 开始
 
-我是一个无名的人，我姓雷！
+先从一首**蓝莲花**开始吧！
+
+[哔哩哔哩-最伟大的作品](https://player.bilibili.com/player.html?aid=84097194&bvid=BV1Y7411q7D6&cid=143861494&page=1&share_source=copy_web&danmaku=0 ':include :type=iframe width="100%" height="680" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"')
+
+还有一首**未来可期**哦！
+
+[本地音乐-未来可期](_media/music.mp3 ':include :type=audio')
 
