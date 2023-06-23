@@ -1,1 +1,2 @@
-- [主页](/)
+- [主页:house:](/#)
+- [联系站长:adult:](http://wpa.qq.com/msgrd?v=3&uin=2385569970&Menu=yes)

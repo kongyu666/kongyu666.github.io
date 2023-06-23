@@ -1,11 +1,11 @@
 ![logo](_media/logo.svg ':size=10%')
 
 
-# LK <small>2023.06.09</small>
+# 我的知识库 <small>2023.06.09</small>
 
-## LK的网站
+## LK的专属知识库网站
 
-- 淡看世事纷纷，心静如水，方能澄澈明亮。
+- 随心而行！
 
 [开始阅读](README.md)
 
