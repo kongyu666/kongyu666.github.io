@@ -1,6 +1,10 @@
 - Linux相关
-  - [文档1](/document/linux/doc1/)
-  - [文档2](/document/linux/doc2/)
+  - linux01相关
+    - [文档1](/document/linux/linux01/doc1/)
+    - [文档2](/document/linux/linux01/doc2/)
+  - linux02相关
+    - [文档1](/document/linux/linux02/doc1/)
+    - [文档2](/document/linux/linux02/doc2/)
 
 - Services相关
   - [文档1](/document/service/doc1/)
