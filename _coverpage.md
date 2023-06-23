@@ -7,5 +7,6 @@
 
 - 随心而行！
 
+[GitHub](https://github.com/kongyu666/kongyu666.github.io)
 [开始阅读](README.md)
 
