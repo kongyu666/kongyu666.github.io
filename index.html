@@ -9,6 +9,8 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
   <!-- 支持docsify侧边栏目录展开和折叠的样式 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+  <!-- Gitalk，一个现代化的，基于Preact和Github Issue的评论系统 -->
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 </head>
 <body>
   <div id="app">加载中...</div>
@@ -104,5 +106,19 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
   <!-- 一个 docsify 插件，用于启用busuanzi，显示您的网站访问数据 -->
   <script src="https://unpkg.com/docsify-busuanzi@1.0.1/dist/docsify-busuanzi.min.js"></script>
+  <!-- Gitalk，一个现代化的，基于Preact和Github Issue的评论系统 -->
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '4fb17be0d36e934620fb',
+      clientSecret: '7ef73dbf163f5f8c322fae1c0c1cbedc74962d0d',
+      repo: 'kongyu666.github.io',
+      owner: 'kongyu666',
+      admin: ['kongyu666'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
 </body>
 </html>
