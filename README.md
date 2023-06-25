@@ -9,11 +9,7 @@
 
 ## 开始
 
-先从一首**蓝莲花**开始吧！
-
-[哔哩哔哩-最伟大的作品](https://player.bilibili.com/player.html?aid=84097194&bvid=BV1Y7411q7D6&cid=143861494&page=1&share_source=copy_web&danmaku=0 ':include :type=iframe width="100%" height="680" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"')
-
-还有一首**未来可期**哦！
+先从一首**未来可期**开始吧！
 
 [本地音乐-未来可期](_media/music.mp3 ':include :type=audio')
 
