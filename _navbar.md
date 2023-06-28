@@ -1,4 +1,4 @@
-- [主页:house:](https://kongyu666.github.io/)
+- [主页:house:](https://kongyu666.github.io/  ':target=_self')
 
 
 - [联系站长:adult:](http://wpa.qq.com/msgrd?v=3&uin=2385569970&Menu=yes)
